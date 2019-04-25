@@ -1,0 +1,5 @@
+server.port=5656
+
+mongodb.host=localhost
+mongodb.port=27017
+mongodb.dbName=sampleDB
